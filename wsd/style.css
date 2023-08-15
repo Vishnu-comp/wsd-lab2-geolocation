@@ -1,0 +1,20 @@
+.navbar.active {
+    top: 100%;
+  }
+  .navbar{
+    display:flex;
+  }
+  .navbar a {
+    padding: 1.5rem;
+    display: block;
+    background: var(--bg-color);
+  }
+
+  #welcomeCanvas{
+    align-items:center ;
+    justify-content: center;
+    right: 50%;
+    margin-left: 75vh;
+
+  }
+
